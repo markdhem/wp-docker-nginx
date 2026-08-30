@@ -1,0 +1,16 @@
+# environment file
+.env
+
+# wordpress files
+wordpress
+!/wordpress/wp-content/plugins/markdhem
+
+# mysql files
+dbdata
+
+# logging output
+logs
+
+# macOS and IDE
+.DS_Store
+.idea
